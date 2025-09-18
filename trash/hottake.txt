@@ -1,0 +1,1 @@
+Mathematic notation should be revamped to match with CS notation instead. CS syntax should also unify.
